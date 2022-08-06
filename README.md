@@ -1,10 +1,14 @@
 
 <img alt="GIF" src="https://media.giphy.com/media/cJSDRt8csBx0A7YFfh/giphy.gif" width="100%"/>
+<p align="center">
+<a href="https://www.linkedin.com/in/md-farhan-nawaz-5016b31b5/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mgrootendorst/" alt="maartengrootendorst"/></a>
+<a href="https://twitter.com/farhan_khan26" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-A7C0FF?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/maartengr" alt="maartengrootendorst"/></a>
 
+</p>
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning Spring, SpringBoot.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
