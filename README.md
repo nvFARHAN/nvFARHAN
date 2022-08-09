@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning Spring, SpringBoot.
 - 👯 I’m looking to collaborate on OpenSource projects.
 - 💬 Ask me about DSA.
+- 😄 Interests : Cooking, Video games, DSA
 - ⚡ Fun fact: Java was called Oak at the beginning.
 
 ## 📫 Connect with me:
