@@ -4,6 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
+I'm a passionate and hardworking professional with knowledge of back-end technologies and a keen interest in data structure and algorithms. Adept at contributing to a collaborative work environment, finding solutions, and flexible in learning new things.
 - 🔭 I’m currently working on a RESTful based web-services project.
 - 🌱 I’m currently learning Spring, SpringBoot.
 - 👯 I’m looking to collaborate on OpenSource projects.
